@@ -1,10 +1,7 @@
 
-
-
 - <h2>👋Hi, I’m Sachin Patel<br>
   
-  
-  -<h3> Visitor Count<br>
+  <h3> Visitor Count<br>
  ![Visitor Count](https://profile-counter.glitch.me/{sachin3098}/count.svg)
   
   
