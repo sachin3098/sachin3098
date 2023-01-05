@@ -4,7 +4,10 @@
 - <h2>👋Hi, I’m Sachin Patel<br>
   
   
- -![](https://komarev.com/ghpvc/?username=sachin3098 &color=green)
+  -<h3> Visitor Count<br>
+ ![Visitor Count](https://profile-counter.glitch.me/{sachin3098}/count.svg)
+  
+  
 - 👀 I’m interested in Datascience,Machine Learning.
 - 🌱 I’m currently learning Python,MYSQL,Python Libraries Like Pandas,Numpy
 - 💞️ I’m looking to collaborate on Data analytics,Data-science project.
