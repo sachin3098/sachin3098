@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m sachin patel
+- <h2>👋Hi, I’m Sachin Patel<br>
 - 👀 I’m interested in Datascience,Machine Learning.
 - 🌱 I’m currently learning Python,MYSQL,Python Libraries Like Pandas,Numpy
 - 💞️ I’m looking to collaborate on Data analytics,Data-science project.
