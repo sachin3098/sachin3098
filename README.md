@@ -6,8 +6,8 @@
 - 📫 How to reach me patelsachin3098@gmail.com
 
 
-Connect with me:
-1)https://www.linkedin.com/in/sachin-patel-771b6a187
-2)https://www.hackerrank.com/patelsachin3098
+Connect with me: \
+👉https://www.linkedin.com/in/sachin-patel-771b6a187 \
+👉https://www.hackerrank.com/patelsachin3098
 
 
