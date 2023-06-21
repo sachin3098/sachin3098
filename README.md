@@ -5,9 +5,9 @@
  ![Visitor Count](https://profile-counter.glitch.me/{sachin3098}/count.svg)
   
   
-- 👀 I’m interested in Datascience,Machine Learning.
-- 🌱 I’m currently learning Python,MYSQL,Python Libraries Like Pandas,Numpy
-- 💞️ I’m looking to collaborate on Data analytics,Data-science project.
+- 👀 I’m interested in data science, Machine Learning.
+- 🌱 I’m currently learning Python,MYSQL, Python Libraries Like Pandas, Numpy
+- 💞️ I’m looking to collaborate on Data analytics, Data-science projects.
 - 📫 How to reach me patelsachin3098@gmail.com
 
 
